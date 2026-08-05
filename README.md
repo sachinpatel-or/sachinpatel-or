@@ -8,181 +8,136 @@ Graduating from **IIT Bombay** with an M.Sc. in Industrial Engineering & Operati
 
 ---
 
-# 🚀 What I'm Building
+## 📊 GitHub Stats
 
-I believe the future belongs to engineers who can bridge **Optimization**, **AI**, and **Software Engineering**.
-
-My work focuses on building production-ready systems that transform data into intelligent decisions.
-
-Current areas of focus include:
-
-* Mathematical Optimization
-* Operations Research
-* Decision Intelligence
-* Supply Chain Analytics
-* Artificial Intelligence
-* Python Development
-* Data Engineering
-* Backend Engineering
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinpatel-or&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinpatel-or&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
+</p>
 
 ---
 
-# 💼 Professional Experience
+## 🛠 Tech Stack
+
+**Mathematical Optimization:** Pyomo · Gurobi · OR-Tools · PuLP · CBC · GLPK · HiGHS
+
+**Programming:** Python · SQL · PostgreSQL · MongoDB · Git
+
+**Data Engineering:** Pandas · NumPy · ETL Pipelines · Airflow
+
+**AI/ML:** Scikit-learn · XGBoost · LLMs · Prompt Engineering
+
+**Backend:** FastAPI · REST APIs · Database Design
+
+**Simulation:** SimPy · Mesa · Streamlit
+
+---
+
+## 🚀 Pinned Projects
+
+| Project | Description |
+|---------|-------------|
+| [**vrptw-solver**](https://github.com/sachinpatel-or/vrptw-solver) | VRPTW solver with exact MILP, Nearest Neighbor heuristic, and ALNS metaheuristic. Solomon benchmark instances. |
+| [**stochastic-network-design**](https://github.com/sachinpatel-or/stochastic-network-design) | Two-stage stochastic program for facility location under demand uncertainty. Computes Value of Stochastic Solution (VSS). |
+| [**LLM-OR-Solver**](https://github.com/sachinpatel-or/LLM-OR-Solver) | LLM-powered solver that translates natural-language business problems into mathematical optimization models. |
+| [**Production-Scheduling-System**](https://github.com/sachinpatel-or/Production-Scheduling-and-Optimization-System) | Enterprise-grade finite-capacity production scheduling using Pyomo + MILP (HiGHS/CBC). |
+| [**Emergent-SCIP**](https://github.com/sachinpatel-or/Emergent-Supply-Chain-Intelligence-Platform) | Agent-based supply chain simulation (Mesa) with RL agents and MLflow experiment tracking. |
+| [**McCormick-Relaxation**](https://github.com/sachinpatel-or/Pooling-Problem-and-McCormick-Relaxation) | Analysis of McCormick relaxations vs. convex/concave envelopes for bilinear optimization. |
+
+---
+
+## 💼 Professional Experience
 
 As an **Operations Research Scientist**, I have worked on production-scale optimization systems involving:
 
-* Mixed Integer Linear Programming (MILP)
-* Vehicle Routing Problems (VRP)
-* Supply Chain Optimization
-* Network Optimization
-* Scheduling & Workforce Planning
-* GPS Route Analytics
-* Decision Support Systems
-* Forecasting
-* SQL & MongoDB ETL Pipelines
-* Backend API Development
-
-I enjoy solving optimization problems where mathematics meets software engineering to improve operational efficiency and business outcomes.
+- Mixed Integer Linear Programming (MILP)
+- Vehicle Routing Problems (VRP)
+- Supply Chain Optimization
+- Network Optimization
+- Scheduling & Workforce Planning
+- GPS Route Analytics
+- Decision Support Systems
+- Forecasting
+- SQL & MongoDB ETL Pipelines
+- Backend API Development
 
 ---
 
-# 🛠 Technical Expertise
+## 🌟 Featured Projects
 
-### Mathematical Optimization
-
-* Pyomo
-* Gurobi
-* OR-Tools
-* PuLP
-* CBC
-* GLPK
-
-### Programming
-
-* Python
-* SQL
-* PostgreSQL
-* MongoDB
-* Git
-
-### Data Engineering
-
-* Pandas
-* NumPy
-* ETL Pipelines
-* Airflow
-
-### Artificial Intelligence
-
-* Machine Learning
-* Scikit-learn
-* XGBoost
-* Large Language Models (LLMs)
-* Prompt Engineering
-
-### Backend Development
-
-* FastAPI
-* REST APIs
-* Authentication
-* Database Design
-
----
-
-# 🌟 Featured Projects
-
-## 🚀 CareerOS *(Currently Building)*
+### 🚀 CareerOS *(Currently Building)*
 
 An AI-powered Career Operating System designed to help technical professionals learn, build, track progress, prepare for interviews, manage applications, and create recruiter-ready proof of work.
 
----
+### 📘 Career Lab
 
-## 📘 Career Lab
-
-My public engineering knowledge base documenting:
-
-* Daily learning
-* Technical notes
-* Experiments
-* Research
-* Case studies
-* Engineering practices
-
-Built with one principle:
+My public engineering knowledge base documenting daily learning, technical notes, experiments, research, case studies, and engineering practices.
 
 > Learn publicly. Build consistently.
 
----
-
-## 📊 Operations Research Projects
+### 📊 Operations Research Projects
 
 Production-inspired optimization projects including:
 
-* Vehicle Routing
-* Inventory Optimization
-* Production Planning
-* Workforce Scheduling
-* Hospital Resource Allocation
-* Dynamic Pricing
-* EV Charging Infrastructure Planning
+- Vehicle Routing
+- Inventory Optimization
+- Production Planning
+- Workforce Scheduling
+- Hospital Resource Allocation
+- Dynamic Pricing
+- EV Charging Infrastructure Planning
 
 ---
 
-# 🎯 2026 Roadmap
+## 🎯 2026 Roadmap
 
-✔ Build CareerOS MVP
-
-✔ Publish optimization case studies
-
-✔ Master Data Engineering fundamentals
-
-✔ Build AI-powered decision support systems
-
-✔ Contribute to open source
-
-✔ Share technical articles and engineering notes
-
-✔ Continue learning in public through Career Lab
+- ✔ Build CareerOS MVP
+- ✔ Publish optimization case studies
+- ✔ Master Data Engineering fundamentals
+- ✔ Build AI-powered decision support systems
+- ✔ Contribute to open source
+- ✔ Share technical articles and engineering notes
+- ✔ Continue learning in public through Career Lab
 
 ---
 
-# 🌱 Philosophy
+## 🌱 Philosophy
 
 I don't measure progress by certificates or completed courses.
 
 I measure progress by:
 
-* Systems built
-* Problems solved
-* Knowledge shared
-* Consistency maintained
-* Business impact created
+- Systems built
+- Problems solved
+- Knowledge shared
+- Consistency maintained
+- Business impact created
 
 Every repository represents a step toward becoming a better engineer.
 
 ---
 
-# 📈 Current Learning
+## 📈 Current Learning
 
 I'm continuously exploring:
 
-* Advanced Operations Research
-* Large Scale Optimization
-* AI Agents
-* Decision Intelligence
-* Data Engineering
-* Distributed Systems
-* Supply Chain Analytics
-* Software Architecture
-* Cloud Technologies
+- Advanced Operations Research
+- Large Scale Optimization
+- AI Agents
+- Decision Intelligence
+- Data Engineering
+- Distributed Systems
+- Supply Chain Analytics
+- Software Architecture
+- Cloud Technologies
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-💼 **LinkedIn:** *(https://www.linkedin.com/in/sachin-patel-7514a0346/)*
+💼 **LinkedIn:** [linkedin.com/in/sachinpatel-or](https://www.linkedin.com/in/sachinpatel-or/)
 
-🌐 **Portfolio:** *(https://sachinpatel-or.github.io/)*
+🌐 **Portfolio:** [sachinpatel-or.github.io](https://sachinpatel-or.github.io/)
 
 📧 **Email:** [sachinpatel.or@gmail.com](mailto:sachinpatel.or@gmail.com)
 
@@ -190,5 +145,4 @@ I'm continuously exploring:
 
 > **"Great software automates tasks. Great optimization transforms decisions."**
 
-⭐ Thanks for visiting my GitHub profile. I hope you find something useful, and if you're interested in optimization, AI, or building intelligent systems, feel free to connect.
-
+⭐ Thanks for visiting my GitHub profile. If you're interested in optimization, AI, or building intelligent systems, feel free to connect.
